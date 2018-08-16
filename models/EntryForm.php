@@ -6,7 +6,7 @@
  * Time: 7:47
  */
 
-namespace app\mosels;
+namespace app\models;
 
 use yii\base\Model;
 
